@@ -26,6 +26,7 @@ namespace WinFormsApp5
         public Form1()
         {
             InitializeComponent();
+            this.Font = new Font("Segoe UI", 10);
         }
 
         private void Form1_Load(object sender, EventArgs e)
